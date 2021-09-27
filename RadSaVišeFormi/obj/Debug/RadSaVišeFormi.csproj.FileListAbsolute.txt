@@ -1,0 +1,11 @@
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\bin\Debug\RadSaVišeFormi.exe.config
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\bin\Debug\RadSaVišeFormi.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\bin\Debug\RadSaVišeFormi.pdb
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.csprojAssemblyReference.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.Studenti.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.Properties.Resources.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.UnosNovogStudenta.resources
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.csproj.GenerateResource.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.exe
+C:\Users\Učenik09\Desktop\Juraj Crljenko\NIOP\RadSaVišeFormi\RadSaVišeFormi\obj\Debug\RadSaVišeFormi.pdb
